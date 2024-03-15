@@ -65,7 +65,7 @@ In 2020, Joseph launched a new stealth company based on his research to radicall
 
 See [Google Scholar](https://scholar.google.com/citations?user=B96GkdgAAAAJ&hl=en&oi=ao) for an up-to-date list of publications.
 
-* [AI-SQL]()
+* [AI-SQL](https://arxiv.org/abs/2403.05821)
 * [S-LoRA](https://arxiv.org/abs/2311.03285)
 * [SG-Lang](https://github.com/sgl-project/sglang)
 * [VisDiff](https://understanding-visual-datasets.github.io/VisDiff-website/)
